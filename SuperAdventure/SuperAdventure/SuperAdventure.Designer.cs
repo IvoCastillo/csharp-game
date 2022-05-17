@@ -1,7 +1,7 @@
 ﻿
 namespace SuperAdventure
 {
-    partial class Form1
+    partial class SuperAdventure
     {
         /// <summary>
         /// Required designer variable.

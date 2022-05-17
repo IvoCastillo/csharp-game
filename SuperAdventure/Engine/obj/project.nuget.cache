@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zksmm9VxtALhiqUjuBVoLUk4nyGj3g+Q7ySWy2D4nlvO5o+ZdGzC/JIszYkq+95lyp5kBVMdT8ropG31xLEvEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saave\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saave\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
