@@ -10,3 +10,4 @@ C:\Users\saave\OneDrive\Desktop\csharp\csharp-game\SuperAdventure\SuperAdventure
 C:\Users\saave\OneDrive\Desktop\csharp\csharp-game\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Users\saave\OneDrive\Desktop\csharp\csharp-game\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\saave\OneDrive\Desktop\csharp\csharp-game\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\saave\OneDrive\Desktop\csharp\csharp-game\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
