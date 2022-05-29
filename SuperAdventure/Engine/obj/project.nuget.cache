@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Xpcr3p6gFL2IXlL5pyDiRbnpqIOwi4e0GVlQ7Zl1nHlgQD3rnhmh34ub2P0MH9JtmnUxkKBjMlw6ISaDspE9gg==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1102",
-      "level": "Error",
-      "message": "Unable to find package NETStandard.Library with version (>= 2.0.3)\r\n  - Found 3 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.0.0 ]",
-      "libraryId": "NETStandard.Library",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "dgSpecHash": "zksmm9VxtALhiqUjuBVoLUk4nyGj3g+Q7ySWy2D4nlvO5o+ZdGzC/JIszYkq+95lyp5kBVMdT8ropG31xLEvEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saave\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saave\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
 }
