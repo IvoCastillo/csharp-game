@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj": {}
+    "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj": {
+    "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
-        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saave\\OneDrive\\Desktop\\csharp\\csharp-game\\SuperAdventure\\Engine\\obj\\",
+        "projectPath": "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\Engine.csproj",
+        "packagesPath": "C:\\Users\\isaveedr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaveedr\\OneDrive - Ilomar\\Desktop\\adventure\\csharp-game\\SuperAdventure\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\isaveedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -57,7 +56,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
